@@ -1,0 +1,67 @@
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe.config
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.pdb
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csprojAssemblyReference.cache
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Form1.resources
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Properties.Resources.resources
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.GenerateResource.cache
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.CoreCompileInputs.cache
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.exe
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.pdb
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe.config
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.pdb
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\templet.Exit.resources
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Form1.resources
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Properties.Resources.resources
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.splush.resources
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.exe
+C:\Users\hp\Desktop\C#\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.pdb
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe.config
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csprojAssemblyReference.cache
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\templet.Exit.resources
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Form1.resources
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Properties.Resources.resources
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.splush.resources
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.GenerateResource.cache
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.CoreCompileInputs.cache
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.exe
+C:\Users\Hp 15-da1015\Downloads\Telegram Desktop\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.pdb
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\templet.Exit.resources
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.splush.resources
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.categoryform.resources
+G:\حاسبات3\الترم الاول\software\project\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.SellingForm.resources
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe.config
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.pdb
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.AssemblyReference.cache
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\templet.Exit.resources
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Form1.resources
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Properties.Resources.resources
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.categoryform.resources
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.SellingForm.resources
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.splush.resources
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.GenerateResource.cache
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.CoreCompileInputs.cache
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.exe
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.pdb
+C:\Users\sohaila\Desktop\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.sellerForm.resources
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe.config
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.exe
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\bin\Debug\project_sw,visual.pdb
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.AssemblyReference.cache
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\templet.Exit.resources
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Form1.resources
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.Properties.Resources.resources
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.categoryform.resources
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.sellerForm.resources
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.SellingForm.resources
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw_visual.splush.resources
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.GenerateResource.cache
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.csproj.CoreCompileInputs.cache
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.exe
+F:\The End\project_sw,visual\project_sw,visual\project_sw,visual\obj\Debug\project_sw,visual.pdb
